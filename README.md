@@ -107,6 +107,8 @@ After the flat engagement results, I went looking for something — anything —
 
 This one actually has a real, visible pattern — religion-based tweets are nearly **2.4x longer** than safe content (198 vs 83 characters), and age-based content isn't far behind. Meanwhile ethnicity and gender sit in the middle, and safe/other content stays short.
 
+![Average tweet length by cyberbullying type](charts/chart2_tweet_length_by_type.png)
+
 Thinking about why: religion and age-based harmful content reads more like an argument — people quoting scripture, making historical claims, building a case across a few sentences. Ethnicity and gender-based harmful content, from skimming a sample of the raw tweets earlier in this project, leaned more toward short slurs and direct insults — get the point across in a few words and move on.
 
 If you were trying to detect this kind of content automatically, that distinction matters: a keyword/slur-filter is probably good enough to catch a lot of the short ethnicity/gender content, but the longer religion/age-based content would slip past keyword filters since it reads like ordinary debate on the surface — that's the kind of thing a more context-aware approach would need to catch.
