@@ -1,6 +1,6 @@
 # Exploring Cyberbullying Patterns in Twitter Data with BigQuery + Gemini
 
-> **A slide deck summarizing this project is available here → [https://drive.google.com/file/d/1L9l3-9vhvggMRWBgtIC7nJPgtPUZC1ig/view?usp=drive_link)**
+> **A slide deck summarizing this project is available here → (https://github.com/Imtiaz-laskar/cyberbullying-sql-bigquery-analysis/blob/main/deck-cyberbullying-twitter-analysis.pdf)**
 > 
 > The deck covers the core hypothesis, key findings, and analytical takeaways in an 8-slide executive format — including why the original hypothesis didn't hold up and where the real signal ended up being.
 
